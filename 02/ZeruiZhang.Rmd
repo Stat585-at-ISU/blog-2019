@@ -18,6 +18,7 @@ Write a blog post addressing the questions:
 
     ```{r, include=FALSE}
     library(tidyverse)
+    library(dplyr)
     ```
     
     
