@@ -1,5 +1,5 @@
 ---
-title: "Ethics and Reproducibility ... by Amin Shirazi"
+title: "Blogdown..."
 author: "Amin Shirazi"
 topic: "06"
 layout: post
